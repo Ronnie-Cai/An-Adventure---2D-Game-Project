@@ -13,6 +13,7 @@ A captivating 3-level 2D platformer demo built from scratch using the Unity engi
 The game features a progressive difficulty curve across three unique stages:
 
 **Level 1 (The Essentials):** Focuses heavily on precision platforming, jumping mechanics, and learning to navigate environmental traps.
+
 <img width="709" height="400" alt="level1" src="https://github.com/user-attachments/assets/f2328f7d-da75-4705-b600-9c39c3640e16" />
 
 **Level 2 (The Confrontation):** Introduces  a  **Boss Fight** encounter.
