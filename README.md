@@ -17,7 +17,9 @@ The game features a progressive difficulty curve across three unique stages:
 
 **Level 2 (The Confrontation):** Introduces  a  **Boss Fight** encounter.
 * Hint for the bossfight: Continuously move and lure the boss to smash onto the yellow spikes on the ground to deplete its health.
+
 <img width="712" height="401" alt="level2" src="https://github.com/user-attachments/assets/cb76b574-cb98-4b0a-bf3a-270ef1986acb" />
+
 
 **Level 3 (The Ultimate Challenge):** A comprehensive culmination of all mechanics, emphasizing strategic level design, polished pacing, and combined obstacles.
 
