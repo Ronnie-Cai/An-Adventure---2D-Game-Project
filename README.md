@@ -20,6 +20,7 @@ The game features a progressive difficulty curve across three unique stages:
 <img width="712" height="401" alt="level2" src="https://github.com/user-attachments/assets/cb76b574-cb98-4b0a-bf3a-270ef1986acb" />
 
 **Level 3 (The Ultimate Challenge):** A comprehensive culmination of all mechanics, emphasizing strategic level design, polished pacing, and combined obstacles.
+
 <img width="712" height="399" alt="level3" src="https://github.com/user-attachments/assets/8e6589c2-1487-44f7-97f2-6094e6a03674" />
 
 
