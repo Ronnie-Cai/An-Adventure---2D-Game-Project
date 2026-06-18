@@ -8,12 +8,18 @@ A captivating 3-level 2D platformer demo built from scratch using the Unity engi
 
 ---
 
-## 📖 Game Overview & Level Design
+## 📖 Game Overview & Level Design & In-game Screenshot
 
 The game features a progressive difficulty curve across three unique stages:
 * **Level 1 (The Essentials):** Focuses heavily on precision platforming, jumping mechanics, and learning to navigate environmental traps.
+* <img width="709" height="400" alt="level1" src="https://github.com/user-attachments/assets/f2328f7d-da75-4705-b600-9c39c3640e16" />
+
 * **Level 2 (The Confrontation):** Introduces  a dynamic **Boss Fight** encounter.
+* <img width="712" height="401" alt="level2" src="https://github.com/user-attachments/assets/cb76b574-cb98-4b0a-bf3a-270ef1986acb" />
+
 * **Level 3 (The Ultimate Challenge):** A comprehensive culmination of all mechanics, emphasizing strategic level design, polished pacing, and combined obstacles.
+* <img width="712" height="399" alt="level3" src="https://github.com/user-attachments/assets/8e6589c2-1487-44f7-97f2-6094e6a03674" />
+
 
 ### 📈 Development Journey
 I initially built the foundational movement and first level by following structured online documentation and tutorials. Subsequently, I successfully expanded the project to implement Levels 2 and 3, utilizing **AI-assisted development** to debug complex state machines, optimize boss behavior, and refine script architectures.
@@ -51,11 +57,16 @@ Huge thanks to the creators of these fantastic free community assets:
 
 ## 🚀 How to Play (Installation)
 
-Follow these simple steps to run the compiled build on your Windows PC:
+You can run the compiled build on your Windows PC using either of the following methods (Method 1 is highly recommended for players):
 
-1.  **Download:** Click the green **`Code`** button at the top right of this repository page and select **`Download ZIP`**.
-2.  **Unzip:** Right-click the downloaded file and choose **Extract All...** to completely unzip the package. 
-    > ⚠️ **Crucial:** Running the game directly inside the `.zip` archive will cause it to crash due to missing directory path references. Always extract first!
-3.  **Launch:** Open the extracted folder and double-click **`2D Project.exe`** to start playing.
+### 📥 Method 1: Download the Pre-compiled Release (Recommended)
+1. Head over to the [🎮 GitHub Releases](https://github.com/Ronnie-Cai/An-Adventure---2D-Game-Project/releases) page.
+2. Under the latest version (e.g., `v1.0.0`), download the **`2D Project.zip`** file.
+3. Right-click the downloaded file and choose **Extract All...** to completely unzip the package. 
+   > ⚠️ **Crucial:** Running the game directly inside the `.zip` archive will cause it to crash due to missing directory path references. Always extract first!
+4. Open the extracted folder and double-click **`2D Project.exe`** to launch the game!
 
-*💡 **Note for Developers:** Alternatively, you can clone or download this repository and open the source folder directly via the **Unity Hub** to inspect scripts, scenes, and prefabs.*
+### 🛠️ Method 2: Run via Unity Editor (For Developers)
+1. Click the green **`Code`** button at the top right of this repository page and select **`Download ZIP`** (or clone the repository using Git).
+2. Open **Unity Hub**, click **`Add` -> `Add project from disk`**, and select the project root folder.
+3. Ensure you have **Unity 2022.3.58f1** installed, open the main scene, and press the **`Play`** button to inspect or debug.
