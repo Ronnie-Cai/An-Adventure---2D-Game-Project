@@ -11,17 +11,17 @@ A captivating 3-level 2D platformer demo built from scratch using the Unity engi
 ## 📖 Game Overview & Level Design & In-game Screenshot
 
 The game features a progressive difficulty curve across three unique stages:
----
+
 **Level 1 (The Essentials):** Focuses heavily on precision platforming, jumping mechanics, and learning to navigate environmental traps.
 <img width="709" height="400" alt="level1" src="https://github.com/user-attachments/assets/f2328f7d-da75-4705-b600-9c39c3640e16" />
----
+
 **Level 2 (The Confrontation):** Introduces  a  **Boss Fight** encounter.
 * Hint for the bossfight: Continuously move and lure the boss to smash onto the yellow spikes on the ground to deplete its health.
 <img width="712" height="401" alt="level2" src="https://github.com/user-attachments/assets/cb76b574-cb98-4b0a-bf3a-270ef1986acb" />
----
+
 **Level 3 (The Ultimate Challenge):** A comprehensive culmination of all mechanics, emphasizing strategic level design, polished pacing, and combined obstacles.
 <img width="712" height="399" alt="level3" src="https://github.com/user-attachments/assets/8e6589c2-1487-44f7-97f2-6094e6a03674" />
----
+
 
 ### 📈 Development Journey
 I initially built the foundational movement and first level by following structured online documentation and tutorials. Subsequently, I successfully expanded the project to implement Levels 2 and 3, utilizing **AI-assisted development** to debug complex state machines, optimize boss behavior, and refine script architectures.
