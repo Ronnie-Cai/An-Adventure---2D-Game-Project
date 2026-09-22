@@ -61,18 +61,27 @@ Huge thanks to the creators of these fantastic free community assets:
 
 ---
 
-## 🚀 How to Play (Installation)
+## 🚀 How to Play (Installation & Online)
 
-You can run the compiled build on your Windows PC using either of the following methods (Method 1 is highly recommended for players):
+Choose your preferred way to play the game below (Method 1 is highly recommended for quick play and macOS users):
 
-### 📥 Method 1: Download the Pre-compiled Release (Recommended)
-1. Head over to the [🎮 GitHub Releases](https://github.com/Ronnie-Cai/An-Adventure---2D-Game-Project/releases) page.
+### 🌐 Method 1: Play Directly in Browser (Recommended for macOS & Quick Play)
+If you want to try the game immediately without downloading anything, or if you are on **macOS/Linux**:
+1. Click here to **[🎮 Play the WebGL Version Online](https://ronnie-cai.github.io/An-Adventure---2D-Game-Project/)**.
+2. Wait a few seconds for the WebGL assets to load, then play directly in your browser!
+
+---
+
+### 📥 Method 2: Download the Windows Executable (Best Performance)
+1. Head over to the [📦 GitHub Releases](https://github.com/Ronnie-Cai/An-Adventure---2D-Game-Project/releases) page.
 2. Under the latest version (e.g., `v1.0.0`), download the **`2D Project.zip`** file.
 3. Right-click the downloaded file and choose **Extract All...** to completely unzip the package. 
    > ⚠️ **Crucial:** Running the game directly inside the `.zip` archive will cause it to crash due to missing directory path references. Always extract first!
 4. Open the extracted folder and double-click **`2D Project.exe`** to launch the game!
 
-### 🛠️ Method 2: Run via Unity Editor (For Developers)
+---
+
+### 🛠️ Method 3: Run via Unity Editor (For Developers)
 1. Click the green **`Code`** button at the top right of this repository page and select **`Download ZIP`** (or clone the repository using Git).
 2. Open **Unity Hub**, click **`Add` -> `Add project from disk`**, and select the project root folder.
 3. Ensure you have **Unity 2022.3.58f1** installed, open the main scene, and press the **`Play`** button to inspect or debug.
